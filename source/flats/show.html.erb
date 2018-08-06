@@ -1,0 +1,18 @@
+<% flat = data.flats[owner] %>
+
+<!-- Inject flat data in template -->
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="cards">
+        <div class="card">
+        <%= image_tag "https://kitt.lewagon.com/placeholder/users/#{owner}", class: "img-circle" %>
+        </div>
+        <div class="card"><h3><%= flat.name %></h3></div>
+        <div class="card"><h3><%= flat.description %></h3></div>
+        <div class="card"><h3><%= flat.city_name %></h3></div>
+        </div>
+    </div>
+  </div>
+</div>
+

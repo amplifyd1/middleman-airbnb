@@ -1,0 +1,42 @@
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+koren:
+  name: Koren's home
+  description: "Nice place by the beach"
+  city_name: "Phuket, Thailand"
+  city_slug: "phuket"
+  wifi: true
+  rating: 5
+jimmy:
+  name: Jimmys's home
+  description: "Nice place by the beach"
+  city_name: "Los Angeles, U.S."
+  city_slug: "LA"
+  wifi: true
+  rating: 5
+bart:
+  name: Barts's home
+  description: "Nice place by the beach"
+  city_name: "Rotterdam, Netherlands"
+  city_slug: "rotterdam"
+  wifi: true
+  rating: 5
