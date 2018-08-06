@@ -11,3 +11,28 @@
   display: flex;
   justify-content: space-around;
 }
+.header-flat-details{
+  display: flex;
+  align-items: center;
+}
+.header-flat-owner{
+  padding:20px;
+}
+.header-flat-name{
+}
+
+.text-center{
+  text-align: center;
+}
+
+.header-flat{
+ h1{
+  font-size: 18px;
+  margin-top: 0px;
+  }
+  p {
+  font-weight: normal;
+    font-size: 14px;
+    color: #777777;
+  }
+}
